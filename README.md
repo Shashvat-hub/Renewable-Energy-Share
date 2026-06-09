@@ -2,7 +2,7 @@
 
 > Analyzing 25 years of global renewable energy transition (2000–2025) across 231 countries using SQL, Python, and Power BI.
 
---
+---
 
 ## 📋 Project Overview
 
