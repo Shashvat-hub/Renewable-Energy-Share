@@ -2,6 +2,8 @@
 
 > Analyzing 25 years of global renewable energy transition (2000–2025) across 231 countries using SQL, Python, and Power BI.
 
+--
+
 ## 📋 Project Overview
 
 This project investigates the global shift from fossil fuel-dependent electricity generation toward renewable energy sources. By analyzing comprehensive energy data spanning 2000–2025, we uncover patterns, trends, and insights into how different nations are transitioning their energy infrastructure.
